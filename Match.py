@@ -1,5 +1,5 @@
 from Player import *
-from Constants import *
+from constants import *
 
 class Match:
     status = None

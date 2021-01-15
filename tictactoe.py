@@ -1,4 +1,4 @@
-bimport random
+import random
 import re
 
 from Match import *

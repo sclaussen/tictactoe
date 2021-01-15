@@ -2,7 +2,7 @@ import re
 
 from Board import *
 from Player import *
-from Constants import *
+from constants import *
 
 class Game:
     status = None
